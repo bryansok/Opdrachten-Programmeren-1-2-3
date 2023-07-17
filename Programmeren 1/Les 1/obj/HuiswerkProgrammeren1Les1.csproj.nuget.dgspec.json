@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bryan\\source\\repos\\HuiswerkProgrammeren1Les1\\HuiswerkProgrammeren1Les1.csproj": {}
+    "C:\\Users\\bryan\\source\\repos\\Opdrachten-Programmeren-1-2-3\\Programmeren 1\\Les 1\\HuiswerkProgrammeren1Les1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bryan\\source\\repos\\HuiswerkProgrammeren1Les1\\HuiswerkProgrammeren1Les1.csproj": {
+    "C:\\Users\\bryan\\source\\repos\\Opdrachten-Programmeren-1-2-3\\Programmeren 1\\Les 1\\HuiswerkProgrammeren1Les1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bryan\\source\\repos\\HuiswerkProgrammeren1Les1\\HuiswerkProgrammeren1Les1.csproj",
+        "projectUniqueName": "C:\\Users\\bryan\\source\\repos\\Opdrachten-Programmeren-1-2-3\\Programmeren 1\\Les 1\\HuiswerkProgrammeren1Les1.csproj",
         "projectName": "HuiswerkProgrammeren1Les1",
-        "projectPath": "C:\\Users\\bryan\\source\\repos\\HuiswerkProgrammeren1Les1\\HuiswerkProgrammeren1Les1.csproj",
+        "projectPath": "C:\\Users\\bryan\\source\\repos\\Opdrachten-Programmeren-1-2-3\\Programmeren 1\\Les 1\\HuiswerkProgrammeren1Les1.csproj",
         "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bryan\\source\\repos\\HuiswerkProgrammeren1Les1\\obj\\",
+        "outputPath": "C:\\Users\\bryan\\source\\repos\\Opdrachten-Programmeren-1-2-3\\Programmeren 1\\Les 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

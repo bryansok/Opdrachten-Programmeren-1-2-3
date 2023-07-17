@@ -13,3 +13,18 @@ C:\Users\bryan\source\repos\HuiswerkProgrammeren1Les1\obj\Debug\net6.0\refint\Hu
 C:\Users\bryan\source\repos\HuiswerkProgrammeren1Les1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.pdb
 C:\Users\bryan\source\repos\HuiswerkProgrammeren1Les1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.genruntimeconfig.cache
 C:\Users\bryan\source\repos\HuiswerkProgrammeren1Les1\obj\Debug\net6.0\ref\HuiswerkProgrammeren1Les1.dll
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\bin\Debug\net6.0\HuiswerkProgrammeren1Les1.exe
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\bin\Debug\net6.0\HuiswerkProgrammeren1Les1.deps.json
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\bin\Debug\net6.0\HuiswerkProgrammeren1Les1.runtimeconfig.json
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\bin\Debug\net6.0\HuiswerkProgrammeren1Les1.dll
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\bin\Debug\net6.0\HuiswerkProgrammeren1Les1.pdb
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.AssemblyInfo.cs
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.dll
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\refint\HuiswerkProgrammeren1Les1.dll
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.pdb
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\HuiswerkProgrammeren1Les1.genruntimeconfig.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 1\obj\Debug\net6.0\ref\HuiswerkProgrammeren1Les1.dll
