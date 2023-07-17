@@ -1,4 +1,4 @@
-# Opdrachten-Programmeren-1-2-3
+# Opdrachten voor de vakken Programmeren 1, 2 en 3
 
 In het eerste jaar van de opleiding HBO-ICT aan NHL Stenden Hoogeschool kreeg ik de vakken Programmeren 1/2/3. Hiervoor kregen we elke week huiswerk. Dit zijn de uitwerkingen daarvan.
 
