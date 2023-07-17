@@ -1,0 +1,8 @@
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\obj\Debug\Week 4.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\obj\Debug\Week 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\obj\Debug\Week 4.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\bin\Debug\Week 4.exe.config
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\bin\Debug\Week 4.exe
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\bin\Debug\Week 4.pdb
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\obj\Debug\Week 4.exe
+C:\Users\bryan\source\repos\Opdrachten-Programmeren-1-2-3\Programmeren 1\Les 4\Week 4\Week 4\obj\Debug\Week 4.pdb
